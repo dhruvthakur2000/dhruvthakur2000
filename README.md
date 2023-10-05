@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-https://holopin.me/dhruvthakur2000)](https://holopin.io/@dhruvthakur2000
+https://holopin.io/@dhruvthakur2000
 <!---
 dhruvthakur2000/dhruvthakur2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
