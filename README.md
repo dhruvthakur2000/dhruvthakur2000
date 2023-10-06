@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on data science projects 
 - 📫 How to reach me ...
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 https://holopin.io/@dhruvthakur2000
 <!---
