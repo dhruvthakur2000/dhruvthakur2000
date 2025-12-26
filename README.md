@@ -6,11 +6,7 @@
 
 ### 🌌 About Me
 
-🎓 A guy with deep interest in **Machine Learning**, **Generative AI**, and **LLMs**. I build systems, explore AI tools, and love sharing insights as I grow.
-
-💡 Fascinated by how AI can reshape real-world systems. I’ve been working GENAI using python for development.I love BUILDING.
-
-🛠️ Currently learning in public & working on LLM'S and prompt engineering.
+***I publicly engineer real-world AI systems from scratch — documenting decisions, failures, tradeoffs, and mental models along the way.***
 
 ---
 
@@ -53,7 +49,8 @@
 
 - 🐦 x: [@psyrar_](https://twitter.com/Dhruv_Thakur__)
 - 📧 dhruvshirar@gmail.com
-- 🌐 Portfolio & Blogs (coming soon via Hashnode)
+- 🌐 Portfolio & Blogs :
+    - [Understanding the Attention Mechanism: The Heart of the Transformer Revolution](https://medium.com/@dhruvshirar/understanding-the-attention-mechanism-the-heart-of-the-transformer-revolution-51c6acb69edd)
 
 ---
 
