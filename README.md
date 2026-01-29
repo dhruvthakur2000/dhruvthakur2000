@@ -51,7 +51,7 @@
 - 📧 dhruvshirar@gmail.com
 - 🌐 Portfolio & Blogs :
     - [Understanding the Attention Mechanism: The Heart of the Transformer Revolution](https://medium.com/@dhruvshirar/understanding-the-attention-mechanism-the-heart-of-the-transformer-revolution-51c6acb69edd)
-
+    - [VAD:VOICE ACTIVITY DETECTION](https://vad-voice-activity-detection.hashnode.dev/vad-voice-activity-detection)
 ---
 
 <div align="center">
